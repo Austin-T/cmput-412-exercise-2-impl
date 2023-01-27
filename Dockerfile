@@ -1,7 +1,7 @@
 # parameters
-ARG REPO_NAME="<REPO_NAME_HERE>"
-ARG DESCRIPTION="<DESCRIPTION_HERE>"
-ARG MAINTAINER="<YOUR_FULL_NAME> (<YOUR_EMAIL_ADDRESS>)"
+ARG REPO_NAME="cmput-412-exercise-2-impl"
+ARG DESCRIPTION="Code for exercise 2, ROS Development and Kinematics"
+ARG MAINTAINER="Mo (famoyinoluwa@gmail.com) Austin (atralnbe@ualberta.ca)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
 
